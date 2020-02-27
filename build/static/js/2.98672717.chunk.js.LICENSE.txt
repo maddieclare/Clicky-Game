@@ -4,7 +4,7 @@ object-assign
 @license MIT
 */
 
-/*! UIkit 3.3.2 | http://www.getuikit.com | (c) 2014 - 2019 YOOtheme | MIT License */
+/*! UIkit 3.3.3 | http://www.getuikit.com | (c) 2014 - 2019 YOOtheme | MIT License */
 
 /** @license React v0.18.0
  * scheduler.production.min.js
